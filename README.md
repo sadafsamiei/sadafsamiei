@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 
-## Profile
+## About me
 
 MSc Data Science student at the **University of Zurich** with a background in **Computer Engineering**. I design, deploy, and evaluate autonomous AI agents and scalable enterprise automation systems, with a focus on connecting advanced language-model capabilities to structured software architectures and real-world tooling.
 
