@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sadaf Samiei
+### AI Agents · ML Systems · Multi-Agent Learning
 
 </div>
 
