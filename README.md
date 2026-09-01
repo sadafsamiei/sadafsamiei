@@ -2,13 +2,6 @@
 
 # Sadaf Samiei
 
-### Data Science · AI Agents · Multi-Agent Systems · Enterprise Automation
-
-![Data Science](https://img.shields.io/badge/Data%20Science-Research-111827?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Engineering-1F2937?style=flat-square)
-![MARL](https://img.shields.io/badge/Multi--Agent%20RL-Simulation-374151?style=flat-square)
-![UZH](https://img.shields.io/badge/University%20of%20Zurich-MSc-4B5563?style=flat-square)
-
 </div>
 
 ---
