@@ -17,7 +17,7 @@ MSc Data Science student at the **University of Zurich** with a background in **
 ### [`recsys-qa-chatbot`](https://github.com)
 **Agentic AI · Hybrid Retrieval · MCP**
 
-Intent-routing AI agent architecture combining hybrid **knowledge-graph and embedding-based retrieval** with deterministic fallback mechanisms. Developed using **Claude Code** and **MCP-based orchestration** for modular tool and agent coordination.
+Intent-routing AI agent architecture combining hybrid **knowledge-graph and embedding-based retrieval** with deterministic fallback mechanisms and RecSys integration.
 
 ---
 
