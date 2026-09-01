@@ -1,6 +1,5 @@
 <div align="center">
 
-### AI Agents · ML Systems · Multi-Agent Learning
 
 </div>
 
