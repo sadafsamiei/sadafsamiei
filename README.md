@@ -16,7 +16,7 @@ Intent-routing AI agent architecture combining hybrid **knowledge-graph and embe
 
 ---
 
-### [`ai-in-weather-and-tokenomics`]([https://github.com/sadafsamiei/recsys-qa-chatbot](https://github.com/AlainJoss/ai-in-weather-and-tokenomics))
+### [`ai-in-weather-and-tokenomics`](https://github.com/sadafsamiei/recsys-qa-chatbot](https://github.com/AlainJoss/ai-in-weather-and-tokenomics))
 **ML Systems · SLURM · Large-Scale Experimentation**
 
 Automated dataset and experiment pipeline deployed across **multi-GPU SLURM clusters**, evaluating **1,200 model configurations** with reproducible execution, traceable experiment logging, and interactive analytical dashboards.
