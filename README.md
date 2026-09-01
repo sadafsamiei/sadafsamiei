@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sadaf Samiei
 
-<!--
-**sadafsamiei/sadafsamiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻 Profile
+I am an MSc Data Science student at the University of Zurich with a strong background in Computer Engineering. I focus on designing, deploying, and validating autonomous AI agents and scalable enterprise automation workflows. I specialize in bridging advanced language model capabilities with structured software architecture and enterprise tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 📈 Highlighted Research & Development
+* 🤖 **[recsys-qa-chatbot](https://github.com/recsys-qa-chatbot)** — An intent-routing AI agent architecture integrating hybrid knowledge-graph and embedding retrieval layer with deterministic fallback engines. Built with Claude Code and MCP orchestration.
+* ⚙️ **[ai-in-weather-and-tokenomics](https://github.com/AlainJoss/ai-in-weather-and-tokenomics)** — An automated dataset execution pipeline deployed on multi-GPU SLURM clusters, evaluating 1,200 unique model configurations with traceable experiment logging and interactive data dashboards.
+* 🎮 **[Environmental-Drivers-of-Algorithmic-Collusion](https://github.com/sadafsamiei/Environmental-Drivers-of-Algorithmic-Collusion)** — Multi-agent reinforcement learning (MARL) simulations designing decision logic, behavioral specifications, and interaction rules across dozens of configurations to systematically benchmark emergent economic behaviors against theoretical baselines.
+
+---
