@@ -10,7 +10,7 @@ MSc Data Science student at the **University of Zurich** with a background in **
 ## Selected Research & Development
 
 ### [`recsys-qa-chatbot`](https://github.com/sadafsamiei/recsys-qa-chatbot)
-**Agentic AI · Hybrid Retrieval · MCP**
+**Agentic AI · Hybrid Retrieval**
 
 Intent-routing AI agent architecture combining hybrid **knowledge-graph and embedding-based retrieval** with deterministic fallback mechanisms and RecSys integration.
 
