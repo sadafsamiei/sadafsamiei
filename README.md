@@ -23,6 +23,13 @@ Automated dataset and experiment pipeline deployed across **multi-GPU SLURM clus
 
 ---
 
+### [`aml2026-group-05`](https://github.com/sadafsamiei/aml2026-group-05)
+**Audio ML · Transformers · Rigorous Evaluation**
+
+End-to-end **audio classification pipeline** for child vocalisation context, benchmarking logistic regression against **audio Transformers with mean and metadata-query attentive pooling** across mel, MFCC, and frozen **wav2vec2** features. Participant-disjoint evaluation with **leave-one-child-out CV**, **Optuna** search, and multi-seed runs showed a tuned linear model outperforming larger architectures, tracing the bottleneck to speaker and language confounding rather than model capacity.
+
+---
+
 ### [`Environmental-Drivers-of-Algorithmic-Collusion`](https://github.com/sadafsamiei/Environmental-Drivers-of-Algorithmic-Collusion)
 **Multi-Agent Reinforcement Learning · Simulation · Economic Behavior**
 
